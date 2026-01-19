@@ -1,15 +1,48 @@
+# Hi there, I'm Nguyen Duong Quang! 👋
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1141710657507557409) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.dg.quang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/duong-quang-nguyen-573772306/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dgquang2k5@gmail.com) 
+## Security Engineer | Aspiring Blue Team Researcher | CTF Enthusiast | INFJ-T
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Quang-Ng-Duong&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Quang-Ng-Duong&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quang-Ng-Duong&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧑‍💻 About Me
+
+I am a Cyber Security student with a strong interest in Blue Team operations, including threat detection, log analysis, incident response, and digital forensics. I focus on developing defensive security skills through hands-on labs, security monitoring, and analysis of real-world attack techniques, while producing clear and well-structured technical reports.
+
+- 📫 **Contact Me:**
+  - Email: [dgquang2k5@gmail.com](mailto:dgquang2k5@gmail.com)
+  - LinkedIn: [My Profile](https://www.linkedin.com/in/dg-quang-ng/)
+  
+## 🛠️ Technical Skills
+
+- **Languages:** Python, C/C++, JavaScript, Bash
+- **Frameworks:** Scapy, PyShark, Pwntools, PyTorch
+- **Security Frameworks:** MITRE ATT&CK, OWASP Top 10, NIST CSF
+- **Tools:** Burp Suite, Wireshark, Nmap, Metasploit, IDA Pro, Ghidra, Volatility, OSQuery
+- **Platforms:** ELK, Wazuh, Docker, Kubernetes, Splunk, Kali Linux
+- **Networking:** Subnetting, VLAN, NAT, Routing, IPv4/IPv6, TLS/SSL
+- **NetworkSec:** Firewall, IPS, WAF, Nginx, VPN, TCP/IP, DNS, HTTP/HTTPS
+- **Security Frameworks:** MITRE ATT&CK, OWASP Top 10, NIST CSF
+- **Blue Team:** Incident Response, Log Analysis, SIEM Rules, Threat Hunting
+
+## 🔍 Experience
+
+- **Cyber Security Student (Blue Team Focus)**
+  - Developed defensive security skills through hands-on labs on TryHackMe and Hack The Box, focusing on threat detection, log analysis, incident response, and network traffic analysis.
+- **Defensive Security & Threat Analysis Learner**
+  - Practiced analyzing attack techniques using MITRE ATT&CK, performed basic threat intelligence research with OSINT, and created structured analysis notes and technical reports.
+- **CTF Participant**
+  - Actively participated in CTF challenges related to digital forensics, network analysis, web security, and basic reverse engineering, strengthening problem-solving and analytical skills.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Quang-Ng-Duong&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Highlights
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4m4&layout=compact&theme=vision-friendly-dark)
+
+---
+
+## 📬 Socials
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dg-quang-ng/)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SsakuraA)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/r00tisme)
