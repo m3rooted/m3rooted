@@ -37,7 +37,7 @@ I am a Cyber Security student with a strong interest in Blue Team operations, in
 
 ## 📈 Highlights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m3rooted&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3rooted&layout=compact)
 
 ---
 
