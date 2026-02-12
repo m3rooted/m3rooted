@@ -2,6 +2,8 @@
 
 ## Security Engineer | Aspiring Blue Team Researcher | CTF Enthusiast | INFJ-T
 
+![miku-nakano](assets/miku-nakano.gif)
+
 ## 🧑‍💻 About Me
 
 I am a Cyber Security student with a strong interest in Blue Team operations, including threat detection, log analysis, incident response, and digital forensics. I focus on developing defensive security skills through hands-on labs, security monitoring, and analysis of real-world attack techniques, while producing clear and well-structured technical reports.
@@ -35,7 +37,7 @@ I am a Cyber Security student with a strong interest in Blue Team operations, in
 
 ## 📈 Highlights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4m4&layout=compact&theme=vision-friendly-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m3rooted&layout=compact&theme=vision-friendly-dark)
 
 ---
 
