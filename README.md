@@ -2,8 +2,9 @@
 
 ## Security Engineer | Aspiring Blue Team Researcher | CTF Enthusiast | INFJ-T
 
-| ![miku-nakano](assets/miku-nakano.gif) |
-| :--: |
+<p align="center">
+  <img src="assets/miku-nakano.gif" alt="miku-nakano" />
+</p>
 
 ## 🧑‍💻 About Me
 
