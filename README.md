@@ -3,7 +3,7 @@
 ## Security Engineer | Aspiring Blue Team Researcher | CTF Enthusiast | INFJ-T
 
 <p align="center">
-  <img src="assets/miku-nakano.gif" alt="miku-nakano" />
+  <img src="assets/ayanokoji-kiyotaka.gif" alt="ayanokoji-kiyotaka" />
 </p>
 
 ## 🧑‍💻 About Me
